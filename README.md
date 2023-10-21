@@ -1,6 +1,7 @@
 # udemig-school
 
-gif added
+
+<h2>Ekran Görüntüsü</h2>
 
 ![](udemig.gif)
 
